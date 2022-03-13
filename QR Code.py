@@ -1,7 +1,6 @@
 
-from python_server import pserver
-
 import qrcode
-img = qrcode.make(pserver)
-type(img)
-img.save()
+
+img = qrcode.make("http://localhost:8080/service.html")
+
+img.save("pserverQR.jpg")
