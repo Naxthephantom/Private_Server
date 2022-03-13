@@ -3,7 +3,7 @@ from http.server import HTTPServer, BaseHTTPRequestHandler
 
 
 hostname = 'localhost'
-port = 2030
+port = 8080
 
 class myserver(BaseHTTPRequestHandler):
     
