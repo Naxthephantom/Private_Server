@@ -24,4 +24,4 @@ on the top right, then sellect the opion to 'run python file', when you do this 
 below the code environment, there you'll see the directoryre you've saved the code written out.
 Now you can copy the link for the site (https://localhost:8080/service.html) to your browser and run it.
 
-note: this server is locally hosted i.e it can only be accessed on the system which the code was run.:)
+note: this server is locally hosted i.e it can only be accessed on the system which the code was run. :)
