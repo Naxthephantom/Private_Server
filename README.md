@@ -13,6 +13,6 @@ To run the server in this repostitory, copy the files in this repository to a di
 (preferably desktop) and put them all ini one folder, open Windows power shell on your pc, navigate
 to your desktop directory by inputing (cd desktop) then click enter, once you've done that, navigate 
 to the folder you've created which contains the code files by inputing (cd *name of the folder*) then
-click enter. Next, we'll want to run the code for the server. To this we'll input (python python_server.py)
+click enter. Next, we'll want to run the code for the server. To this we'll input (python server.py)
 when it shows that server is live, copy the link to the html for the site to any browser on your pc and 
 run it, it should show you a simple web site.
